@@ -1,10 +1,10 @@
 #! /bin/bash
 
-echo -e "Enter the name od file: \c"
+echo -e "Enter the name of file: \c"
 read file_name
 
 # # chmod +w : Providing permission to write 
-# # chmod -w : Forbiddn to write permission
+# # chmod -w : Forbidden to write permission
 
 
 # # -w permission to write
